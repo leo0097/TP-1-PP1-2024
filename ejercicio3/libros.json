@@ -1,0 +1,8 @@
+[ { "id": 1, "titulo": "Boquitas pintadas", "autor": "Manuel Puig",
+ "precio": 12.34, "agotado": false  }, { "id": 2, "titulo": "Pedro Páramo",
+  "autor": "Juan Rulfo", "precio": 64.35, "agotado": false  },
+   { "id": 3, "titulo": "El castillo", "autor": "Franz Kafka",
+    "precio": 94.63, "agotado": false  }, { "id": 4,
+     "titulo": "Antología poética", "autor": "Alfonsina Storni",
+      "precio": 47.75, "agotado": false  }, { "id": 5, "titulo": "Martín Fierro",
+ "autor": "José Hernández", "precio": 85.57, "ocultar": false  } ]
